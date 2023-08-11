@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science,Pytorch,Wordpress**
 
-- 💬 Ask me about **react, angular**
+- 💬 Ask me about **react, node**
 
 - 📫 How to reach me **haileyabsera3@gmail.com**
 
