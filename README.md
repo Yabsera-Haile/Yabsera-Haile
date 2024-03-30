@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/haileyabsera" target="blank"><img src="https://img.shields.io/twitter/follow/haileyabsera?logo=twitter&style=for-the-badge" alt="haileyabsera" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science,Pytorch,Wordpress**
+- 🌱 I’m currently learning **Data Science,Pytorch,PowerBI**
 
 - 💬 Ask me about **react, node**
 
